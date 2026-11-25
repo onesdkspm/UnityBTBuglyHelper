@@ -16,13 +16,13 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "Bugly",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityBTBuglyHelper/2.0.5-dev-1575951/Bugly.xcframework.zip",
-            checksum: "796a5d1b8330c241b98e9ad759b41e9c571cb109fba493823571b1f94090e547"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityBTBuglyHelper/2.0.5-dev-1576013/Bugly.xcframework.zip",
+            checksum: "43a2e2606742f2e7a700a5848bb35417867e59c7fc10d8420ec6ae1dae747d53"
         ),
         .binaryTarget(
             name: "UnityBTBuglyHelper",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityBTBuglyHelper/2.0.5-dev-1575951/UnityBTBuglyHelper.xcframework.zip",
-            checksum: "78cb8913373dbf369753963f0615536d591033aa6fd392a60ad83cd65a711ea1"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnityBTBuglyHelper/2.0.5-dev-1576013/UnityBTBuglyHelper.xcframework.zip",
+            checksum: "bec39f1269f9c5e9a06b56e32311a1fc2ec2691686b3c85ee1d2e0868539037f"
         )
     ]
 )
